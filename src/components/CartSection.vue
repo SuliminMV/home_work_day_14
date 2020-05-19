@@ -4,7 +4,7 @@
         <div v-if="this.$store.state.cart != ''" class="cart">
         <h2>Корзина товаров</h2>
         <table>
-        <th>Вещь</th>
+        <th>Наименование</th>
         <th>Фото товара</th>
         <th>Цвет</th>
         </table>
